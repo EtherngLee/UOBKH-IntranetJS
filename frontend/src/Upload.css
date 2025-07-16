@@ -1,0 +1,25 @@
+.container {
+	min-height: 100vh;
+	min-width: 100vw;
+}
+.upload-title {
+	font-size: 8rem;
+	font-weight: bold;
+	margin-bottom: 20px;
+	color: black;
+	text-align: center;
+}
+
+.dropzone {
+	border: 2px dashed #ccc;
+	border-radius: 10px;
+	padding: 20px;
+	font-size: 4rem;
+	color: black;
+}
+
+.tags-p {
+	margin-top: 20px;
+	font-size: 2rem;
+	color: black;
+}

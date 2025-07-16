@@ -1,0 +1,60 @@
+.uobkh-container {
+	width: 100vw;
+	min-height: 100vh;
+	background: #fff;
+	padding: 0;
+}
+
+.uobkh-title {
+	text-align: center;
+	font-size: 2.3rem;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	color: #111;
+}
+
+.tree-list {
+	margin-left: 7vw;
+	margin-top: 0;
+	font-size: 1.6rem;
+	color: #111;
+	font-family: inherit;
+}
+
+.tree-item {
+	display: flex;
+	align-items: center;
+	margin-bottom: 0.2em;
+}
+
+.tree-toggle {
+	cursor: pointer;
+	font-size: 1.5em;
+	margin-right: 0.2em;
+	user-select: none;
+}
+
+.tree-label {
+	margin-left: 0.1em;
+}
+
+.tree-bold {
+	font-weight: bold;
+}
+
+.tree-children {
+	margin-left: 2.5em;
+	margin-top: 0.1em;
+}
+
+.forms-box {
+	border: 4px solid #111;
+	padding: 40px 80px;
+	font-size: 2.2rem;
+	font-weight: bold;
+	text-align: center;
+	margin: 10px 0 10px 0;
+	background: #fff;
+	display: inline-block;
+}
